@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  activeLink = "Link2";
   title = 'formproject';
+
+  log11 (x )
+  {console.log(x)}
 }
